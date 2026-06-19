@@ -2,29 +2,29 @@
   FILE        : tentang.html
   FUNGSI      : Halaman Tentang Kami — onlineumkm.id/tentang/
   LOKASI DI WP: Pages > Tentang Kami > Edit > Custom HTML Block
-  
+
   CARA UPDATE FILE INI:
   1. WordPress > Pages > Tentang Kami > Edit
   2. Klik blok Custom HTML > tab "Kode"
   3. Ctrl+A > Copy semua
   4. Paste di sini, gantikan seluruh isi file
   5. Commit: "Update tentang [dd/mm/yyyy]"
-  
-  TERAKHIR DIUPDATE : 18/06/2026
 
-  RINGKASAN PERUBAHAN 18/06/2026 (Topik 19 — Site Crawl Fix):
-  - H1 duplikat ditemukan via Seobility crawl:
-    "Tentang Kami" (dari WordPress page title via Astra) + 
-    "Tentang OnlineUMKM.id" (dari HTML widget = ab-hero h2 tag)
-  - Fix: ab-hero sudah pakai <h2>, bukan <h1> — sudah benar di versi ini
-  - CSS selector: .ab-hero h2 (bukan h1) — tidak perlu perubahan CSS di sini
-    karena CSS disimpan di Astra Custom CSS / Additional CSS WordPress
-  
-  NOTE: File ini baru dibuat 18/06/2026 — belum ada versi sebelumnya di repo
+  TERAKHIR DIUPDATE : 19/06/2026
+
+  RINGKASAN PERUBAHAN 19/06/2026:
+  - Hapus class sisa Tailwind/Claude.ai UI yang tidak sengaja ikut ter-paste
+    (font-claude-response-body, whitespace-normal, underline underline-offset-2
+    decoration-1 decoration-current/40 dst) dari 5 paragraf cerita founder + 2 link
+  - Hapus em dash di copy CTA section (.ab-cta) sesuai aturan "no em dash di CTA"
+  - CATATAN PENTING: marker <!-- wp:html --> TIDAK pernah ikut di-paste ke WordPress,
+    hanya untuk dokumentasi GitHub. Konten asli di WP dimulai langsung dari <p><style>
 -->
 
 <!-- wp:html -->
 <p>&nbsp;</p>
+<!-- /wp:html -->
+
 <!-- wp:html -->
 <p><style>
 .oumkm-about *,.oumkm-about *::before,.oumkm-about *::after{margin:0;padding:0;box-sizing:border-box}
@@ -154,7 +154,7 @@
 .oumkm-about .legal-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px;margin-bottom:40px}
 .oumkm-about .legal-item{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);
   border-radius:16px;padding:20px 22px}
-.oumkm-about .legal-item-label{font-size:10.5px;font-weight:800;color:#6Be8AE;
+.oumkm-about .legal-item-label{font-size:10.5px;font-weight:800;color:#6BE8AE;
   letter-spacing:.08em;text-transform:uppercase;margin-bottom:6px}
 .oumkm-about .legal-item-val{font-size:14px;color:rgba(255,255,255,.88);
   font-weight:600;line-height:1.5}
@@ -343,10 +343,10 @@
 <div class="ab-cta">
 <div class="ab-cta-inner">
 <h2>Masih Ada yang Ingin Ditanyakan?</h2>
-<p>Kami percaya transparansi adalah fondasi kepercayaan. Tidak ada pertanyaan yang terlalu kecil — hubungi Ronald langsung via WhatsApp.</p>
+<p>Kami percaya transparansi adalah fondasi kepercayaan. Tidak ada pertanyaan yang terlalu kecil. Hubungi Ronald langsung via WhatsApp.</p>
 <a class="ab-cta-btn" href="https://wa.me/6287791808667?text=Halo%20Ronald%2C%20saya%20ingin%20tahu%20lebih%20lanjut%20tentang%20OnlineUMKM.id"> 💬 Tanya Langsung ke Ronald </a>
 <p class="ab-cta-note">Biasanya dibalas dalam 1–3 jam di hari kerja</p>
 </div>
 </div>
 </div>
-<!-- /wp:html --><!-- /wp:html -->
+<!-- /wp:html -->

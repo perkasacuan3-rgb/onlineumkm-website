@@ -10,26 +10,15 @@
   4. Paste di sini, gantikan seluruh isi file
   5. Commit: "Update main-block [dd/mm/yyyy]"
   
-  TERAKHIR DIUPDATE : 18/06/2026
+  TERAKHIR DIUPDATE : 20/06/2026
 
-  RINGKASAN PERUBAHAN SESI 15/06/2026 (CWV Optimization):
-  - Logo base64 (3x, ~150KB) diganti URL Media Library
-    (logo-onlineumkm-680-untuk-web.webp) + width/height eksplisit
-  - Nav logo: fetchpriority="high" (elemen LCP)
-  - Hero card logo: tanpa loading="lazy" (LCP di mobile, order:-1)
-  - Footer logo: loading="lazy" (di bawah fold)
-  - Hamburger button: 3 <span> (mobile menu icon)
-  - Fix kontras WCAG AA (Aksesibilitas 78->98):
-    .btn-wa/.btn-cta-wa color white -> var(--navy) (8.99:1)
-    .sec-label/.tentang-peran var(--green) -> #007A50 (5.39:1)
-    .jujur-box strong #B8830C -> #8F6608 (4.86:1)
-    .footer-copy rgba(255,255,255,.4) -> #9CA3AF (7.30:1)
-    .footer-disclaimer rgba(255,255,255,.28) -> rgba(255,255,255,.5) (5.31:1)
-    H3 "Layanan Jasa Pembuatan Website UMKM Lokal" var(--green) -> #007A50
-  - Footer heading hierarchy: <h4>Layanan/Navigasi</h4> -> <p class="footer-heading">
-    (CSS .footer-col h4 -> .footer-col .footer-heading)
-  - Hasil PageSpeed Mobile: Performa 78->85, Aksesibilitas ->98,
-    Praktik Terbaik ->100, SEO ->92
+  RINGKASAN PERUBAHAN SESI 20/06/2026 (NAP Consistency Fix):
+  - Brand name "OnlineUMKM.id" -> "Online UMKM" di 7 lokasi (selaras dengan
+    nama bisnis di Google Business Profile, yang menolak ".id" sebagai pola URL)
+  - Lokasi: disclaimer bar atas, alt text logo navbar, av-role section Tentang,
+    bio paragraf Tentang, jujur-box, footer copyright, footer disclaimer
+  - Semua URL/domain literal (onlineumkm.id di src/href) TIDAK diubah,
+    hanya brand name dalam teks prosa
 -->
 
 <!-- wp:html -->
@@ -237,10 +226,10 @@
 .oumkm-page .footer-disclaimer{font-size:11px;color:rgba(255,255,255,.5);text-align:center;margin-top:16px;padding-top:16px;border-top:1px solid rgba(255,255,255,.06);font-weight:500;line-height:1.7;max-width:680px;margin-left:auto;margin-right:auto;margin-bottom:0}
 </style></p>
 <div class="oumkm-page">
-<div class="disclaimer-bar">⚠️ <strong>OnlineUMKM.id</strong> adalah layanan jasa website &amp; SEO <strong>swasta</strong> milik perorangan — bukan produk, afiliasi, atau bagian dari program pemerintah Indonesia manapun.</div>
+<div class="disclaimer-bar">⚠️ <strong>Online UMKM</strong> adalah layanan jasa website &amp; SEO <strong>swasta</strong> milik perorangan — bukan produk, afiliasi, atau bagian dari program pemerintah Indonesia manapun.</div>
 <div id="oumkm-toast" class="wa-toast"><span class="wt-icon">✅</span> <span id="oumkm-toast-msg"></span></div>
 <!-- NAV --><nav class="oumkm-nav">
-<div class="nav-inner"><a class="nav-logo" style="cursor: pointer;"> <img src="https://onlineumkm.id/wp-content/uploads/2026/06/logo-onlineumkm-680-untuk-web.webp" width="680" height="453" alt="Jasa website dan SEO lokal untuk UMKM Medan - OnlineUMKM.id" fetchpriority="high" decoding="async" /> </a>
+<div class="nav-inner"><a class="nav-logo" style="cursor: pointer;"> <img src="https://onlineumkm.id/wp-content/uploads/2026/06/logo-onlineumkm-680-untuk-web.webp" width="680" height="453" alt="Jasa website dan SEO lokal untuk UMKM Medan - Online UMKM" fetchpriority="high" decoding="async" /> </a>
 <ul class="nav-links">
 <li><a>Layanan</a></li>
 <li><a>Tentang</a></li>
@@ -349,7 +338,7 @@
 <div class="tentang-avatar">
 <div class="av-initials">RH</div>
 <div class="av-name">Ronald Huson</div>
-<div class="av-role">Pendiri · Web Designer<br />OnlineUMKM.id · Medan</div>
+<div class="av-role">Pendiri · Web Designer<br />Online UMKM · Medan</div>
 </div>
 </div>
 <div>
@@ -357,10 +346,10 @@
 <h2 class="tentang-nama">Ronald Huson</h2>
 <div class="tentang-peran">Pendiri · Web Designer · SEO Specialist</div>
 <h3 style="font-size: 16px; font-weight: 800; color: #007A50; margin-bottom: 12px; letter-spacing: .04em; text-transform: uppercase;">Layanan Jasa Pembuatan Website UMKM Lokal</h3>
-<p class="tentang-bio">OnlineUMKM.id lahir dari satu keyakinan sederhana: setiap usaha kecil di Indonesia berhak punya kehadiran online yang profesional — bukan cuma sekadar akun WhatsApp. Oleh karena itu, kami hadir dengan solusi yang terjangkau dan mudah dipahami oleh siapapun.</p>
+<p class="tentang-bio">Online UMKM lahir dari satu keyakinan sederhana: setiap usaha kecil di Indonesia berhak punya kehadiran online yang profesional — bukan cuma sekadar akun WhatsApp. Oleh karena itu, kami hadir dengan solusi yang terjangkau dan mudah dipahami oleh siapapun.</p>
 <p class="tentang-bio">Berbasis di Medan, Sumatera Utara, kami fokus membantu UMKM lokal membuat website yang bukan hanya indah, tapi juga bisa ditemukan di Google oleh calon pelanggan yang tepat. Dengan demikian, bisnis kamu bisa tumbuh secara organik tanpa biaya iklan besar.</p>
 <div class="skill-tags"><span class="skill-tag">🎨 WordPress Design</span> <span class="skill-tag">🔍 SEO On-Page</span> <span class="skill-tag">📱 Mobile-First</span> <span class="skill-tag">📍 SEO Lokal Medan</span> <span class="skill-tag">⚡ Page Speed</span></div>
-<div class="jujur-box">💬 <strong>Catatan jujur dari kami:</strong> OnlineUMKM.id sedang membangun portofolio. Karena itu, kami membuka <strong>3–5 slot GRATIS</strong> untuk UMKM yang mau jadi mitra awal. Tidak ada biaya tersembunyi — kami hanya minta testimoni jujur di akhir.</div>
+<div class="jujur-box">💬 <strong>Catatan jujur dari kami:</strong> Online UMKM sedang membangun portofolio. Karena itu, kami membuka <strong>3–5 slot GRATIS</strong> untuk UMKM yang mau jadi mitra awal. Tidak ada biaya tersembunyi — kami hanya minta testimoni jujur di akhir.</div>
 </div>
 </div>
 </div>
@@ -530,9 +519,9 @@
 </div>
 </div>
 <div class="footer-bottom">
-<p class="footer-copy">© 2026 OnlineUMKM.id · Dibuat dengan ❤️ untuk UMKM Indonesia</p>
+<p class="footer-copy">© 2026 Online UMKM · Dibuat dengan ❤️ untuk UMKM Indonesia</p>
 <p class="footer-copy">Medan, Sumatera Utara · +62 877-9180-8667</p>
-<p class="footer-disclaimer">OnlineUMKM.id adalah layanan jasa website &amp; SEO swasta milik perorangan, berbasis di Medan, Sumatera Utara. Website ini tidak berafiliasi, tidak terintegrasi, dan bukan bagian dari program atau portal resmi pemerintah Indonesia manapun.</p>
+<p class="footer-disclaimer">Online UMKM adalah layanan jasa website &amp; SEO swasta milik perorangan, berbasis di Medan, Sumatera Utara. Website ini tidak berafiliasi, tidak terintegrasi, dan bukan bagian dari program atau portal resmi pemerintah Indonesia manapun.</p>
 </div>
 </footer></div>
 <p><script>
@@ -588,5 +577,6 @@ if (hb) {
   });
 }
 </script></p>
+
 <!-- /wp:html -->
 <p>&nbsp;</p>

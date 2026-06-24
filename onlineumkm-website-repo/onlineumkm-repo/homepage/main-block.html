@@ -1,27 +1,3 @@
-<!--
-  FILE        : main-block.html
-  FUNGSI      : Blok HTML Utama Homepage onlineumkm.id
-  LOKASI DI WP: Block Editor > Custom HTML > Blok PERTAMA (blok besar)
-  
-  CARA UPDATE FILE INI:
-  1. WordPress > Pages > Homepage > Edit
-  2. Klik blok HTML utama > tab "Kode"
-  3. Ctrl+A > Copy semua
-  4. Paste di sini, gantikan seluruh isi file
-  5. Commit: "Update main-block [dd/mm/yyyy]"
-  
-  TERAKHIR DIUPDATE : 20/06/2026
-
-  RINGKASAN PERUBAHAN SESI 20/06/2026 (NAP Consistency Fix):
-  - Brand name "OnlineUMKM.id" -> "Online UMKM" di 7 lokasi (selaras dengan
-    nama bisnis di Google Business Profile, yang menolak ".id" sebagai pola URL)
-  - Lokasi: disclaimer bar atas, alt text logo navbar, av-role section Tentang,
-    bio paragraf Tentang, jujur-box, footer copyright, footer disclaimer
-  - Semua URL/domain literal (onlineumkm.id di src/href) TIDAK diubah,
-    hanya brand name dalam teks prosa
--->
-
-<!-- wp:html -->
 <p><style>
 .oumkm-page *,.oumkm-page *::before,.oumkm-page *::after{margin:0;padding:0;box-sizing:border-box;}
 
@@ -46,7 +22,6 @@
 .oumkm-page .nav-cta{background:var(--grad)!important;color:white!important;padding:10px 22px!important;border-radius:99px!important;font-size:13px!important;font-weight:800!important;box-shadow:0 4px 18px rgba(0,180,120,.32);transition:all .25s!important}
 .oumkm-page .nav-cta:hover{transform:translateY(-1px);box-shadow:0 8px 26px rgba(0,180,120,.42)!important}
 .oumkm-page .hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;background:none;border:none}
-/* FIX: hamburger warna hijau agar terlihat di mobile */
 .oumkm-page .hamburger span{display:block;width:24px;height:2.5px;background:var(--green);border-radius:2px;transition:all .3s}
 @media(max-width:768px){.oumkm-page .nav-links{display:none}.oumkm-page .hamburger{display:flex}}
 
@@ -229,7 +204,7 @@
 <div class="disclaimer-bar">⚠️ <strong>Online UMKM</strong> adalah layanan jasa website &amp; SEO <strong>swasta</strong> milik perorangan — bukan produk, afiliasi, atau bagian dari program pemerintah Indonesia manapun.</div>
 <div id="oumkm-toast" class="wa-toast"><span class="wt-icon">✅</span> <span id="oumkm-toast-msg"></span></div>
 <!-- NAV --><nav class="oumkm-nav">
-<div class="nav-inner"><a class="nav-logo" style="cursor: pointer;"> <img src="https://onlineumkm.id/wp-content/uploads/2026/06/logo-onlineumkm-680-untuk-web.webp" width="680" height="453" alt="Jasa website dan SEO lokal untuk UMKM Medan - Online UMKM" fetchpriority="high" decoding="async" /> </a>
+<div class="nav-inner"><a class="nav-logo" style="cursor: pointer;"> <img src="https://onlineumkm.id/wp-content/uploads/2026/06/logo-online-umkm-glossy.webp" width="700" height="466" alt="Jasa website dan SEO lokal untuk UMKM Medan - Online UMKM" fetchpriority="high" decoding="async" /> </a>
 <ul class="nav-links">
 <li><a>Layanan</a></li>
 <li><a>Tentang</a></li>
@@ -256,7 +231,7 @@
 </div>
 </div>
 <div class="hero-right">
-<div class="hero-card"><img src="https://onlineumkm.id/wp-content/uploads/2026/06/logo-onlineumkm-680-untuk-web.webp" width="680" height="453" alt="Online UMKM" decoding="async" />
+<div class="hero-card"><img src="https://onlineumkm.id/wp-content/uploads/2026/06/logo-online-umkm-glossy.webp" width="700" height="466" alt="Online UMKM" decoding="async" />
 <div class="hero-tags"><span class="htag htag-g">🌐 WordPress</span> <span class="htag htag-t">🔍 SEO Ready</span> <span class="htag htag-g">📱 Mobile-Friendly</span> <span class="htag htag-t">⚡ Loading Cepat</span></div>
 <div class="float-badge fb1">⭐ Website GRATIS terpilih</div>
 <div class="float-badge fb2">📍 Berbasis di Medan</div>
@@ -495,7 +470,7 @@
 </div>
 <!-- FOOTER --><footer class="oumkm-footer">
 <div class="footer-inner">
-<div class="footer-brand"><img src="https://onlineumkm.id/wp-content/uploads/2026/06/logo-onlineumkm-680-untuk-web.webp" width="680" height="453" alt="Online UMKM - Jasa website dan SEO untuk UMKM Indonesia" loading="lazy" decoding="async" />
+<div class="footer-brand"><img src="https://onlineumkm.id/wp-content/uploads/2026/06/logo-online-umkm-footer.webp" width="440" height="293" alt="Online UMKM - Jasa website dan SEO untuk UMKM Indonesia" loading="lazy" decoding="async" />
 <p>Jasa pembuatan website dan SEO lokal khusus untuk UMKM Indonesia. Berbasis di Medan, melayani seluruh Indonesia.</p>
 </div>
 <div class="footer-col">
@@ -577,6 +552,3 @@ if (hb) {
   });
 }
 </script></p>
-
-<!-- /wp:html -->
-<p>&nbsp;</p>

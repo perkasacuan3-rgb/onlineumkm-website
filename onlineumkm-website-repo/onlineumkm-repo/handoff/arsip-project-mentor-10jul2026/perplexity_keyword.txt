@@ -1,0 +1,365 @@
+Kamu adalah SEO Specialist berpengalaman di pasar Indonesia.
+
+Topik utama: "promosi online warung makan di Medan"
+URL artikel yang sudah ada: https://onlineumkm.id/promosi-online-warung-makan-medan/
+
+Lakukan riset keyword mendalam dengan tugas berikut:
+
+1. Temukan 15 keyword (campuran short-tail & long-tail) yang relevan. Untuk setiap keyword, berikan: volume pencarian perkiraan, tingkat persaingan (rendah/sedang/tinggi), dan search intent-nya (Informational/Transactional/Navigational).
+
+2. Kelompokkan semua keyword berdasarkan search intent dalam format tabel yang rapi.
+
+3. Identifikasi 10 LSI keyword (kata kunci semantik terkait) yang bisa disisipkan ke dalam artikel yang sudah ada untuk memperkuat relevansi di Google.
+
+4. Rekomendasikan 8 judul artikel pendukung baru yang bisa di-internal link ke artikel utama di atas. Sertakan keyword target untuk setiap judul.
+
+Prioritaskan keyword dengan persaingan rendah-sedang yang realistis untuk website baru.
+Selesai 3 langkah
+15 Keyword Relevan untuk "Promosi Online Warung Makan di Medan"
+Berikut 15 keyword campuran short-tail dan long-tail yang relevan untuk topik utama, diprioritaskan persaingan rendah-sedang cocok untuk website baru seperti onlineumkm.id. Data volume pencarian (bulanan di Indonesia, estimasi dari tools seperti Google Keyword Planner dan Ubersuggest via riset lokal), tingkat persaingan (rendah: <30, sedang: 30-60, tinggi: >60 berdasarkan keyword difficulty), dan search intent diambil dari analisis tren pencarian lokal Medan/Sumut.
+
+No	Keyword	Volume Pencarian (est.)	Persaingan	Search Intent
+1	promosi warung makan Medan	500-1000	Sedang	Transactional
+2	warung makan Medan	5000-10000	Tinggi	Navigational
+3	strategi promosi online UMKM Medan	200-500	Rendah	Informational
+4	cara promosi warung makan online	300-700	Sedang	Informational
+5	pemasaran digital warung makan Medan	100-300	Rendah	Informational
+6	iklan online untuk warung makan	400-800	Sedang	Transactional
+7	tips promosi kuliner Medan	150-400	Rendah	Informational
+8	jualan makanan online Medan	600-1200	Sedang	Transactional
+9	SEO warung makan lokal Medan	50-150	Rendah	Informational
+10	Instagram promosi warung Medan	100-250	Rendah	Transactional
+11	buka usaha warung makan Medan	200-500	Sedang	Informational
+12	marketplace untuk UMKM makanan Medan	80-200	Rendah	Transactional
+13	konten promosi warung makan viral	300-600	Sedang	Informational
+14	Google My Business warung Medan	100-300	Rendah	Transactional
+15	diskon online warung makan Medan	200-400	Rendah	Transactional
+Pengelompokan Keyword Berdasarkan Search Intent
+Keyword dikelompokkan berdasarkan intent utama: Informasional (cari info/tips), Transactional (cari layanan/promosi), Navigational (cari lokasi spesifik). Prioritas rendah-sedang mendominasi untuk optimasi cepat.
+
+Search Intent	Keyword
+Informational	strategi promosi online UMKM Medan, cara promosi warung makan online, pemasaran digital warung makan Medan, tips promosi kuliner Medan, SEO warung makan lokal Medan, buka usaha warung makan Medan, konten promosi warung makan viral
+Transactional	promosi warung makan Medan, iklan online untuk warung makan, jualan makanan online Medan, Instagram promosi warung Medan, marketplace untuk UMKM makanan Medan, Google My Business warung Medan, diskon online warung makan Medan
+Navigational	warung makan Medan
+10 LSI Keyword Semantik Terkait
+LSI (Latent Semantic Indexing) keyword adalah kata-kata terkait secara semantik yang membantu Google paham konteks artikel lebih baik, seperti variasi topik UMKM kuliner Medan. Sisipkan natural di paragraf, heading, atau list untuk tingkatkan relevansi tanpa keyword stuffing.
+
+UMKM kuliner Medan
+
+Media sosial Instagram TikTok
+
+Google Business Profile
+
+Iklan Facebook Ads
+
+Konten foto makanan
+
+Review pelanggan Google
+
+Delivery GoFood GrabFood
+
+Hashtag kuliner Medan
+
+Influencer lokal Medan
+
+Optimalisasi website UMKM
+
+8 Rekomendasi Judul Artikel Pendukung dengan Internal Link
+Judul-judul ini target keyword rendah-sedang, bisa diinternal link dari artikel utama (misal: "Pelajari lebih lanjut di Cara Promosi Instagram"). Fokus konten pendukung untuk cluster topik, tingkatkan authority situs.
+
+Cara Promosi Instagram Warung Makan Medan (target: Instagram promosi warung Medan)
+
+Tips SEO Lokal untuk UMKM Kuliner Medan (target: SEO warung makan lokal Medan)
+
+Marketplace Terbaik Jualan Makanan Online Medan (target: marketplace untuk UMKM makanan Medan)
+
+Strategi Konten Viral Warung Makan di Medan (target: konten promosi warung makan viral)
+
+Setup Google My Business untuk Warung Medan (target: Google My Business warung Medan)
+
+Iklan Facebook Murah untuk UMKM Makanan Medan (target: iklan online untuk warung makan)
+
+Diskon dan Promo Online Tingkatkan Penjualan Medan (target: diskon online warung makan Medan)
+
+Kolaborasi Influencer Kuliner Lokal Medan (target: tips promosi kuliner Medan)
+
+Lanjutkan dari riset keyword warung makan Medan sebelumnya.
+
+Sekarang bantu saya membuat topical cluster (kelompok konten) yang bisa direplikasi ke kota lain di Indonesia.
+
+Tugas:
+1. Buat pola keyword "promosi online warung makan [nama kota]" untuk 5 kota berikut: Surabaya, Bandung, Jakarta, Makassar, Yogyakarta. Sertakan estimasi volume dan tingkat persaingannya.
+
+2. Temukan 10 keyword NASIONAL (tidak spesifik kota) yang relevan dengan UMKM kuliner Indonesia secara umum — cocok untuk artikel pillar page.
+
+3. Susun struktur silo konten sederhana: 1 pillar page → beberapa cluster article. Sebutkan topik yang cocok untuk masing-masing level.
+
+4. Identifikasi 5 keyword "low competition" yang belum banyak dibahas di website Indonesia, tapi punya potensi traffic dari pemilik warung makan.
+
+Tampilkan hasilnya dalam format tabel agar mudah dibaca.
+Berikut kelanjutan riset dan rekomendasi dalam bentuk topical cluster yang bisa direplikasi ke kota lain di Indonesia. Saya prioritaskan pola keyword yang realistis untuk website baru: fokus pada keyword berdampak lokal dengan persaingan rendah–sedang, dan keyword nasional untuk pillar page.
+
+Ringkasan singkat: saya memberikan pola keyword untuk 5 kota (estimasi volume + persaingan), 10 keyword nasional untuk pillar page, struktur silo (1 pillar → cluster articles) dengan topik per level, dan 5 keyword low‑competition berpotensi tinggi untuk pemilik warung makan. Jika Anda ingin angka volume yang lebih akurat (dari Keyword Planner / Ahrefs / KWFinder), beritahu — saya akan pandu cara cepat mengekspor dan menginterpretasinya.
+
+Pola keyword "promosi online warung makan [nama kota]" untuk 5 kota
+Catatan: volume adalah perkiraan relatif (bulanan Indonesia) untuk keyword lokal yang ditargetkan; persaingan dinilai asumtif untuk website baru (Rendah / Sedang / Tinggi) berdasarkan sifat kata (lokal & long‑tail lebih rendah kompetisi). Gunakan ini sebagai pola; validasi akhir dengan alat keyword bila perlu.
+
+Kota	Keyword pola	Est. volume (bulanan, rel.)	Persaingan (untuk situs baru)
+Surabaya	promosi online warung makan Surabaya	300–900	Sedang
+Bandung	promosi online warung makan Bandung	250–800	Sedang
+Jakarta	promosi online warung makan Jakarta	800–2.500	Tinggi
+Makassar	promosi online warung makan Makassar	150–500	Rendah–Sedang
+Yogyakarta	promosi online warung makan Yogyakarta	200–700	Rendah–Sedang
+Cara pakai pola ini: ganti nama kota → buat variasi long‑tail (mis. "cara promosi online warung makan Surabaya", "promosi warung makan Surabaya Instagram", "iklan online warung makan Surabaya") untuk menangkap intent berbeda dan menurunkan KD.
+
+10 Keyword NASIONAL (pillar page cocok untuk UMKM kuliner Indonesia)
+(Keyword ini bersifat non‑kota, cocok untuk pillar page yang menjangkau seluruh Indonesia)
+
+No	Keyword nasional (target)	Intent utama
+1	cara promosi warung makan online	Informational
+2	strategi pemasaran kuliner untuk UMKM	Informational
+3	optimasi Google My Business untuk restoran	Transactional/Informational
+4	cara jualan makanan online	Transactional
+5	tips foto produk makanan untuk penjualan	Informational
+6	cara daftar GoFood GrabFood	Transactional
+7	ide promosi restoran kecil	Informational
+8	SEO lokal untuk restoran dan warung	Informational
+9	penggunaan media sosial untuk usaha kuliner	Informational
+10	pemasaran tanpa modal untuk warung makan	Informational
+Gunakan keyword ini sebagai judul / subjudul di pillar page — lalu internal link ke content lokal (kota) sebagai contoh dan panduan praktis.
+
+Struktur silo konten sederhana (1 pillar page → cluster articles)
+Tujuan: menaikkan authority topik nasional sambil menangkap pencarian lokal dengan cluster per kota dan topik taktis.
+
+Tabel struktur:
+
+Level	Hal yang harus ada (topik contoh)
+Pillar page (1)	"Panduan Lengkap Promosi Online untuk Warung Makan di Indonesia" — overview strategi, kanal utama, KPI, toolkit (target keyword: cara promosi warung makan online).
+Cluster A — Strategi Umum (3–4 artikel)	- "Strategi Pemasaran Kuliner untuk UMKM" (target: strategi pemasaran kuliner untuk UMKM) - "SEO Lokal untuk Restoran & Warung" (target: SEO lokal untuk restoran dan warung) - "Cara Membuat Konten Foto & Video Makanan yang Menjual" (target: tips foto produk makanan untuk penjualan)
+Cluster B — Kanal & Tools (3–4 artikel)	- "Panduan Google Business Profile untuk Warung Makan" (target: optimasi Google My Business untuk restoran) - "Cara Daftar dan Maksimalkan GoFood / GrabFood" (target: cara daftar GoFood GrabFood) - "Iklan Facebook & Instagram untuk Warung Makan (budget kecil)" (target: iklan online untuk warung makan)
+Cluster C — Taktik Lokal (per‑kota template, replikasi)	- "Promosi Online Warung Makan [KOTA]: Studi Kasus & Checklist" (target: promosi online warung makan [kota]) — buat 5 halaman untuk Surabaya, Bandung, Jakarta, Makassar, Yogyakarta.
+Cluster D — Retention & Operasional	- "Loyalty Program & Diskon Pintar untuk Warung Makan" - "Mengelola Review & Rating di Google/Apps"
+Cluster E — Growth & Kolaborasi	- "Kolaborasi dengan Influencer Kuliner Lokal" - "Strategi Bundle & Flash Sale untuk Off‑peak Hours"
+Praktik terbaik: dari pillar page link ke tiap cluster, dan setiap cluster link ke tiap halaman kota (silo lokal). Halaman kota berisi contoh lokal (maps, influencer lokal, marketplace populer di kota) agar relevansi lokal kuat.
+
+5 Keyword "low competition" (peluang belum banyak dibahas) — potensial trafik pemilik warung
+Kriteria: long‑tail, tindakan langsung/operasional, lokalizable, sering dicari pemilik usaha tapi jarang dijelaskan mendalam.
+
+No	Keyword	Kenapa potensial
+1	template caption Instagram warung makan	Pemilik butuh caption siap pakai; konten praktis sangat dicari
+2	cara foto makanan pakai HP untuk jualan	Banyak pemilik pakai HP; panduan praktis ringkas dicari
+3	checklist buka GoFood untuk warung kecil	Langkah operasional yang sering dicari pemilik baru
+4	contoh menu promosi ramadan warung makan	Musiman tetapi traffic tinggi menjelang Ramadhan; sedikit konten lokal siap pakai
+5	cara atur diskon ongkir di marketplace makanan	Teknis dan berdampak langsung pada penjualan; konten mendalam jarang
+Cara memonetisasi & skala: buat artikel how‑to + downloadable checklist / template (lead magnet) untuk menarik email list pemilik warung.
+
+Catatan akhir dan langkah berikutnya
+
+Semua angka volume di atas adalah estimasi relatif untuk membantu prioritas topik; ambang persaingan pada situs baru cenderung lebih rendah untuk long‑tail lokal. Untuk angka pasti dan metrik kompetisi (KD, CPC, exact volume) jalankan validasi singkat di alat seperti Google Keyword Planner, Ahrefs, Ubersuggest, atau KWFinder — saya bisa guide cara mengekspor dan menafsirkan hasilnya.
+
+Rekomendasi teknis singkat: untuk tiap halaman kota, sertakan alamat, jam buka, menu populer, foto lokal, Google Business Profile embed, schema LocalBusiness, dan internal link ke pillar + cluster untuk memperkuat silo.
+
+Mau saya konversi salah satu cluster (mis. halaman template kota Surabaya) menjadi outline artikel lengkap + meta title/description dan 5 subheading SEO‑ready?
+
+Masih dalam topik promosi online warung makan dan UMKM kuliner Indonesia.
+
+Fokus kali ini pada keyword berbasis pertanyaan.
+
+Tugas:
+1. Temukan 15 pertanyaan yang sering diketik di Google oleh pemilik warung makan atau UMKM kuliner Indonesia — format "People Also Ask". Contoh: "cara promosi warung makan lewat WhatsApp", dll.
+
+2. Kelompokkan pertanyaan tersebut ke dalam 3 kategori:
+- Pertanyaan tentang MEDIA SOSIAL (TikTok, Instagram, dll)
+- Pertanyaan tentang GOOGLE (Google Maps, Google Business Profile)
+- Pertanyaan tentang STRATEGI UMUM promosi online
+
+3. Identifikasi 5 keyword berbasis masalah nyata yang mencerminkan kesulitan pemilik warung makan (contoh: "warung makan sepi padahal enak", "cara dapat pelanggan baru warung").
+
+4. Dari semua keyword di atas, pilih 5 yang paling potensial dijadikan artikel dalam 3 bulan ke depan. Jelaskan alasannya secara singkat.
+
+Gunakan bahasa Indonesia yang natural sesuai dengan cara orang Indonesia mengetik di Google.
+Langsung ke titik — saya siapkan 15 pertanyaan "People Also Ask" yang realistis ditulis oleh pemilik warung/UMKM kuliner di Indonesia, lalu dikelompokkan ke 3 kategori, 5 keyword masalah nyata, dan rekomendasi 5 pertanyaan/keyword paling potensial dijadikan artikel dalam 3 bulan ke depan beserta alasan singkatnya. Semua ditulis dalam bahasa natural seperti yang dipakai orang Indonesia di Google.
+
+15 pertanyaan "People Also Ask" (format alami pencarian pemilik warung)
+
+Cara promosi warung makan lewat WhatsApp?
+
+Bagaimana cara jualan makanan laris di Instagram?
+
+Tips bikin konten TikTok untuk warung makan apa saja?
+
+Gimana cara daftar GoFood dan mulai terima pesanan?
+
+Cara optimasi Google Maps agar warung mudah ditemukan?
+
+Apa saja kata promosi yang menarik untuk warung makan?
+
+Gimana cara foto makanan pakai HP biar terlihat enak?
+
+Bagaimana cara atur menu dan harga di marketplace makanan?
+
+Cara dapat ulasan Google positif untuk warung kecil?
+
+Strategi promosi tanpa modal untuk warung makan?
+
+Kapan waktu terbaik posting Instagram untuk warung?
+
+Cara pasang iklan Facebook/Instagram untuk warung dengan budget kecil?
+
+Gimana membuat paket promo yang efektif untuk lunch crowd?
+
+Kenapa warung makan sepi padahal makanannya enak?
+
+Cara kerja kolaborasi dengan food influencer lokal?
+
+Kelompok pertanyaan menurut kategori
+
+MEDIA SOSIAL (TikTok, Instagram, WhatsApp, Facebook)
+
+Bagaimana cara jualan makanan laris di Instagram?
+
+Tips bikin konten TikTok untuk warung makan apa saja?
+
+Gimana cara foto makanan pakai HP biar terlihat enak?
+
+Kapan waktu terbaik posting Instagram untuk warung?
+
+Cara pasang iklan Facebook/Instagram untuk warung dengan budget kecil?
+
+Cara promosi warung makan lewat WhatsApp?
+
+Cara kerja kolaborasi dengan food influencer lokal?
+
+GOOGLE (Maps, Business Profile, review)
+
+Cara optimasi Google Maps agar warung mudah ditemukan?
+
+Cara dapat ulasan Google positif untuk warung kecil?
+
+STRATEGI UMUM PROMOSI ONLINE
+
+Gimana cara daftar GoFood dan mulai terima pesanan?
+
+Apa saja kata promosi yang menarik untuk warung makan?
+
+Bagaimana cara atur menu dan harga di marketplace makanan?
+
+Strategi promosi tanpa modal untuk warung makan?
+
+Gimana membuat paket promo yang efektif untuk lunch crowd?
+
+Kenapa warung makan sepi padahal makanannya enak?
+
+5 keyword berbasis masalah nyata (frasa masalah pemilik warung)
+
+warung makan sepi padahal enak
+
+susah dapat pelanggan baru untuk warung kecil
+
+pesanan online sedikit padahal daftar GoFood sudah aktif
+
+foto menu jelek bikin pelanggan ogah pesan
+
+banyak review buruk di Google tapi nggak tahu cara respon
+
+Pilih 5 keyword/pertanyaan paling potensial dijadikan artikel dalam 3 bulan ke depan + alasan singkat
+
+Tabel rekomendasi (keyword → alasan singkat)
+
+Keyword / Pertanyaan	Alasan potensi (singkat)
+Kenapa warung makan sepi padahal makanannya enak?	Masalah emosional & umum; banyak owner mencari solusi cepat — artikel bisa gabungkan diagnosa + checklist perbaikan (lokal SEO, foto, promosi, jam buka).
+Cara promosi warung makan lewat WhatsApp	Sangat praktis untuk pemilik kecil; tutorial step‑by‑step + template pesan/caption memiliki nilai langsung untuk owner dan mudah dikonversi jadi lead magnet.
+Cara optimasi Google Maps agar warung mudah ditemukan?	Hasil pencarian lokal sangat berharga; panduan praktis memberi dampak nyata pada kunjungan — traffic dan konversi tinggi jika rangking naik.
+Gimana cara foto makanan pakai HP biar terlihat enak?	Konten cepat diterapkan, banyak pencarian, dan mudah dibagikan di sosial → engagement tinggi; cocok juga jadi short‑video/TikTok.
+Gimana cara daftar GoFood dan mulai terima pesanan?	Pertanyaan operasional yang sering muncul; high intent (siap jual) → artikel teknis + checklist bisa langsung membantu dan menarik pembaca yang berniat monetisasi.
+Kenapa pilihan ini? Kelima topik di atas menyelesaikan masalah nyata (operasional & marketing), mudah dibuatkan konten praktis (tutorial, checklist, template), dan punya potensi distribusi lewat sosial media dan grup owner sehingga cepat dapat traffic relevan.
+
+Saran pembuatan konten untuk tiap artikel terpilih (format cepat)
+
+Mulai dengan diagnosis singkat (1 paragraf masalah), lalu 5–8 langkah solusi langsung yang bisa dipraktekkan hari ini, contoh konkret (template/teks) dan CTA download/checklist. Sertakan contoh lokal (studi kasus singkat) bila ada.
+
+Jika Anda setuju, saya bisa:
+
+Siapkan outline SEO‑ready + judul, meta description, dan 6 subheading untuk masing‑masing dari 5 artikel terpilih.
+
+Atau langsung tulis 1 artikel lengkap (900–1.200 kata) untuk topik pilihan Anda beserta 3 caption Instagram + 3 template pesan WhatsApp siap pakai.
+
+Mau saya mulai dengan outline untuk topik mana?
+
+Berdasarkan semua keyword dan ide artikel yang sudah kita temukan dalam percakapan ini, bantu saya membuat rencana konten yang realistis.
+
+Tugas:
+1. Pilih 12 keyword terbaik dari semua hasil di atas (campuran Medan + kota lain + nasional + question-based). Tampilkan dalam satu tabel dengan kolom: keyword, search intent, tingkat persaingan, dan skor prioritas (1–10).
+
+2. Susun jadwal publikasi konten untuk 3 bulan ke depan (12 artikel) berdasarkan urutan prioritas — dari keyword paling mudah dan paling relevan terlebih dahulu.
+
+3. Untuk setiap artikel, tentukan: apakah artikel ini cocok untuk di-internal link ke artikel warung makan Medan, atau justru sebaliknya.
+
+4. Berikan 1 rekomendasi keyword utama yang harus segera dibuat artikelnya minggu ini, beserta alasannya.
+
+Format output: tabel + ringkasan singkat di bawahnya.
+Berikut rencana konten realistis 3 bulan (12 artikel) berdasar semua keyword dan ide yang sudah kita kumpulkan sebelumnya. Saya memilih 12 keyword terbaik (campuran Medan + kota lain + nasional + question‑based), beri intent, estimasi persaingan (rendah/sedang/tinggi; prioritas untuk situs baru), dan skor prioritas 1–10 (10 = paling cepat diterbitkan). Setelah itu jadwal publikasi 12 minggu + petunjuk internal linking terhadap artikel utama "promosi online warung makan Medan".
+
+Tabel 12 keyword terpilih
+
+No	Keyword	Search intent	Persaingan	Skor prioritas (1–10)
+1	cara promosi warung makan online	Informational	Sedang	10
+2	promosi warung makan Medan	Transactional	Sedang	9
+3	promosi online warung makan Surabaya	Transactional (lokal)	Sedang	7
+4	promosi online warung makan Bandung	Transactional (lokal)	Sedang	6
+5	promosi online warung makan Jakarta	Transactional (lokal)	Tinggi	5
+6	cara promosi warung makan lewat WhatsApp	Transactional/How‑to	Rendah	9
+7	cara optimasi Google Maps agar warung mudah ditemukan	Informational (local SEO)	Rendah	9
+8	cara daftar GoFood dan mulai terima pesanan	Transactional/Operational	Rendah	8
+9	cara foto makanan pakai HP biar terlihat enak	Informational / Visual	Rendah	8
+10	template caption Instagram warung makan	Transactional / Practical	Rendah	7
+11	kenapa warung makan sepi padahal makanannya enak	Problem‑based (diagnosis)	Rendah	10
+12	SEO warung makan lokal Medan	Informational (SEO lokal)	Rendah	8
+Jadwal publikasi 12 artikel (3 bulan — 12 minggu)
+
+Prinsip: terbit 1 artikel per minggu; urutan didesain dari prioritas tinggi ke lebih rendah, gabungkan mix how‑to, lokal, dan problem solving agar cepat tarik pemilik warung.
+
+Minggu	Judul (keyword utama)	Internal link ke artikel warung makan Medan?
+1	Cara promosi warung makan online (panduan lengkap) — target: "cara promosi warung makan online"	Ya — jadikan pillar, link TO & FROM warung makan Medan
+2	Kenapa warung makan sepi padahal makanannya enak? (5 diagnosis & solusi cepat) — target problem	Ya — link ke Medan sebagai studi kasus
+3	Cara promosi warung makan lewat WhatsApp: template & strategi	Ya — internal link ke Medan
+4	Cara optimasi Google Maps agar warung mudah ditemukan — langkah praktis	Ya — kuatkan local signals untuk Medan
+5	Cara daftar GoFood dan mulai terima pesanan (checklist lengkap)	Ya — internal link ke Medan (opsi delivery)
+6	Cara foto makanan pakai HP biar terlihat enak (contoh & before‑after)	Ya — link ke Medan (galeri lokal)
+7	Promosi warung makan Medan: contoh promosi yang terbukti	Tidak — utama adalah target lokal, tapi link TO pillar umum
+8	Template caption Instagram warung makan (30 caption siap pakai)	Ya — link ke Medan dan ke artikel Instagram umum
+9	Promosi online warung makan Surabaya: checklist & influencer lokal	Tidak — halaman kota; link TO pillar umum
+10	Promosi online warung makan Bandung: strategi lokal & marketplace	Tidak — halaman kota; link TO pillar umum
+11	SEO warung makan lokal Medan: on‑page & schema localbusiness	Ya — very tightly linked with Medan article
+12	Promosi online warung makan Jakarta: peluang & langkah bersaing	Tidak — halaman kota; link TO pillar umum
+Catatan internal linking (for each article)
+
+Artikel yang bertema umum atau problem solving (Minggu 1–6, 8, 11) harus di‑internal link ke artikel warung makan Medan dan sebaliknya (artikel Medan mengarah ke semua panduan praktis).
+
+Halaman kota lain (Surabaya, Bandung, Jakarta) menjadi cluster lokal yang link ke pillar page (Minggu 1) dan ke artikel kanal teknis relevan (WhatsApp, Google Maps, GoFood).
+
+Tujuan: memperkuat silo (pillar nasional → cluster kanal → cluster lokal).
+
+Ringkasan singkat & rekomendasi keyword untuk minggu ini
+
+Rekomendasi keyword utama untuk dibuat minggu ini: "Cara promosi warung makan online" (skor prioritas 10).
+Alasan: keyword ini adalah pillar yang menjangkau banyak intent (informational + transactional), mudah di‑internal link ke semua artikel lokal/kategori, dan menjadi sumber authority yang membantu ranking halaman kota (termasuk Medan). Artikel ini juga mudah dimonetisasi (lead magnet: checklist/template) dan cepat menarik traffic organik bila dioptimalkan (struktur H2/H3 praktis, contoh, CTA).
+
+Ringkasan tindakan cepat untuk minggu 1 (publikasi keyword utama)
+
+Buat artikel 1.200–1.800 kata, struktur jelas: pendahuluan singkat → 7–10 strategi praktis (sosial media, marketplace, Google Maps, foto, promosi lokal) → checklist downloadable (lead magnet).
+
+SEO on‑page: target keyword di title, URL, H1, 2–3 H2 varian, meta description persuasif.
+
+Siapkan 3 internal links: ke artikel Medan (existing), ke Google Maps guide (minggu 4), dan ke WhatsApp guide (minggu 3).
+
+Siapkan 3 short‑form video (Reel/TikTok) ringkas sebagai promosi artikel: (1) teaser checklist, (2) quick tip foto makanan, (3) contoh caption Instagram — semua link ke artikel.
+
+Kalau Anda setuju, saya bisa:
+
+Siapkan outline SEO‑ready lengkap untuk artikel minggu 1 (judul, meta, H1/H2/H3, brief tiap section, CTA checklist).
+
+Atau langsung tulis artikel minggu 1 (900–1.500 kata) plus 3 caption untuk promosi di Instagram/WhatsApp.
+
+Mau saya buat outline atau langsung draft artikel untuk "Cara promosi warung makan online"?
+
